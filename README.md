@@ -106,7 +106,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Kwaku28/vet-clinic/issues).
 
 <!-- SUPPORT -->
 
@@ -124,6 +124,6 @@ I would like to thank all Micronauts for their support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Kwaku28/vet-clinic/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
