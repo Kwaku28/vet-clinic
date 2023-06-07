@@ -8,3 +8,9 @@ CREATE TABLE animals (
     weight_kg FLOAT,
     PRIMARY KEY(id)
 );
+
+-- Alter table to include species column
+ALTER TABLE
+    animals
+ADD
+    species VARCHAR(100);
