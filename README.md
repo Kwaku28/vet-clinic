@@ -88,9 +88,8 @@ Clone this repository to your desired folder:
 
 👤 **Lawrence Amoafo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kwaku28](https://github.com/Kwaku28)
+- LinkedIn: [Lawrence](https://www.linkedin.com/in/lawrence-amoafo-appoh/)
 
 <!-- FUTURE FEATURES -->
 
