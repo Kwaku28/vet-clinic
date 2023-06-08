@@ -26,11 +26,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -58,6 +56,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - **[Query and update table]**
 - **[Directory]**
 - **[Query multiple tables]**
+- **[Join table with Visits]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,12 +89,6 @@ Clone this repository to your desired folder:
 
 - GitHub: [@Kwaku28](https://github.com/Kwaku28)
 - LinkedIn: [Lawrence](https://www.linkedin.com/in/lawrence-amoafo-appoh/)
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[Add option for visits]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
