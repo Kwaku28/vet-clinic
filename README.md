@@ -8,6 +8,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <a name="readme-top"></a>
 
+<img src="drawSQL-vet-clinic-export-2023-06-13.png" width="100%" heigth="auto">
 
 <!-- TABLE OF CONTENTS -->
 
